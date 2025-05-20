@@ -1,0 +1,25 @@
+/your-project
+│
+├── index.html
+└── script.js
+
+✅ index.html — Well-structured HTML5 with 5+ semantic elements
+
+✅ Semantic Elements Used
+header, nav, main, section, footer
+
+Plus: h1, p, button, ul, li, a
+
+
+✅ script.js — JavaScript for Dynamic DOM Manipulation
+
+✅ Optional styles.css (if you want extra style)
+
+✅ Summary of Features
+✅ Uses 5+ semantic HTML elements.
+
+✅ JavaScript dynamically changes text and styles.
+
+✅ Button adds/removes an element interactively.
+
+✅ Clean separation of concerns (HTML + JS).
